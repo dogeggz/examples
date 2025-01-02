@@ -12,20 +12,18 @@
   - about page
     ![about page](./dez/about.png)
 
-  - about page mobile
-    ![about page mobile](./dez/about_mobile.png)
-
-  - projects page mobile
-    ![projects page mobile](./dez/projects.png)
-
-  - about page mobile
-    ![projects page mobile](./dez/projects_mobile.png)
+  - projects page
+    ![projects page](./dez/projects.png)
 
   - contact page
     ![contact page](./dez/contact.png)
 
-  - contact page mobile
-    ![contact page mobile](./dez/contact_mobile.png)
+  <div style="display: flex; gap: 1rem;">
+    <img src="./dez/home_mobile.png" alt="home page mobile" width="180" />
+    <img src="./dez/about_mobile.png" alt="about page mobile" width="180" />
+    <img src="./dez/projects_mobile.png" alt="projects page mobile" width="180" />
+    <img src="./dez/contact_mobile.png" alt="contact page mobile" width="180" />
+  </div>
 
 ## In Progress
 
